@@ -1,0 +1,9 @@
+.container {
+    background-color: #020235;
+    padding: .5rem;
+    text-align: center;
+}
+
+.container img {
+    max-width: 100%;
+}

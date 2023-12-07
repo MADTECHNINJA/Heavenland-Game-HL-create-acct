@@ -1,0 +1,26 @@
+.register_form {
+  background-color: #FFF;
+  padding: 1.5rem;
+  border-radius: 15px;
+  width: 300px;
+  max-width: 100%;
+}
+
+
+
+.register_form input {
+  background-color: #f2f2f2;
+}
+
+.register_form button{
+  background-color: rgb(54, 46, 208);
+  border: 0;
+}
+
+.register_form a {
+  color: #FFF;
+  text-decoration: none;
+}
+.register_form a:hover{
+  color: #FFF;
+}
